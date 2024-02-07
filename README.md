@@ -4,8 +4,10 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
 <img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(34).png?raw=true"/>
-<img width="450px;" src="https://github.com/rishavchanda/risfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a"/>
-<img width="450px;" src="https"/>
+<img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(36).png?raw-true"/>
+                      
+<img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(37).png?raw=true"/>
+                  
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
