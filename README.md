@@ -5,13 +5,10 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ## Some Images:
 <img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(34).png?raw=true"/>
 <img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(36).png?raw-true"/>                  
-<img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(37).png?raw=true"/>
-                  
-<img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(38).png?raw=true"/>
-                        
+<img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(37).png?raw=true"/>               
+<img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(38).png?raw=true"/>                    
 <img width="450px;" src="https://github.com/Aakash52thade/MyPortfolio/blob/main/img/Screenshot%20(39).png?raw=true"/>
                               
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
